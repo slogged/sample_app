@@ -6,7 +6,7 @@
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="bde68d85-b870-4bea-a2eb-865046d377c2" time="1390449691861" ignored="false" />
+    <file path="/Dummy.txt" changelist="bde68d85-b870-4bea-a2eb-865046d377c2" time="1390449750510" ignored="false" />
     <file path="/index.html" changelist="bde68d85-b870-4bea-a2eb-865046d377c2" time="1390431595773" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="bde68d85-b870-4bea-a2eb-865046d377c2" time="1390449288892" ignored="false" />
     <file path="/home.html.erb" changelist="bde68d85-b870-4bea-a2eb-865046d377c2" time="1390449583564" ignored="false" />
@@ -451,7 +451,11 @@
       <created>1390449697636</created>
       <updated>1390449697636</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added static pages">
+      <created>1390449752875</created>
+      <updated>1390449752875</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
